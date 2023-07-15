@@ -5,3 +5,4 @@ ahgoo
 agho
 zj insert 1
 zj insert 2
+hot fix insert 1
